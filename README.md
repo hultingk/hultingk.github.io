@@ -1,1 +1,0 @@
-# hultingk.github.io
