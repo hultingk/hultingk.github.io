@@ -21,7 +21,7 @@ website:
       - icon: github
         href: https://github.com/hultingk/hultingk.github.io
   page-footer: 
-    center: "Copyright 2025, LTER Network"
+    center: "Copyright 2025, Katherine Hulting"
     background: secondary
 
 format:
