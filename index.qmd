@@ -7,3 +7,5 @@ editor: visual
 ## Katherine Hulting
 
 Quarto website for Katherine Hulting
+
+Practice as part of the SSCER course
